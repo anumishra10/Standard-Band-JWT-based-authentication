@@ -7,8 +7,9 @@
  ## Localhost view of the interface
  1) Home page 
  
+![Screenshot (338)](https://github.com/anumishra10/Standard-Band-JWT-based-authentication/assets/91246832/bee963a9-7b96-4154-9637-ff742922e2f4)
 
-![Screenshot (339)](https://github.com/anumishra10/Standard-Band-JWT-based-authentication/assets/91246832/b62256d4-f0bf-463e-a69a-b9487404fe67)
+
 
 2) Login form
 ![Screenshot (340)](https://github.com/anumishra10/Standard-Band-JWT-based-authentication/assets/91246832/0f0e63cc-184e-4936-ae45-1255fdad210d)
