@@ -1,4 +1,4 @@
-# Standard-Band-JWT-based-authentication
+# Standard-Bank-JWT-based-authentication
  In this project i have made a simple REST HTTP POST API, Response included an authentication token.
  Developed the endpoint to process and validate a username and password.
  
